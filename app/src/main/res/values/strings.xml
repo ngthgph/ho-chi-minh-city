@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Ho Chi Minh City</string>
+    <string name="coffee">Coffee Shops</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="activity">Things to do</string>
     <string name="coffee_1">Anh Coffee Roastery</string>
     <string name="description_coffee_1">Address: No. 200, Pasteur Street, Vo Thi Sau Ward, District 3
 Price range: 40,000 VND - 160,000 VND

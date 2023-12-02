@@ -1,12 +1,13 @@
 package com.example.hochiminhcity.datasource
 
 import com.example.hochiminhcity.R
+import com.example.hochiminhcity.model.Suggestion
 import com.example.hochiminhcity.model.Suggestion.Coffee
 import com.example.hochiminhcity.model.Suggestion.Restaurant
 import com.example.hochiminhcity.model.Suggestion.Activity
 
 object LocalSuggestionsProvider {
-    private val coffee = listOf(
+    val coffeeSuggestions = listOf(
         Coffee(
             name = R.string.coffee_1,
             image = R.drawable.coffee_1,
@@ -58,7 +59,7 @@ object LocalSuggestionsProvider {
             description = R.string.description_coffee_10
         ),
     )
-    private val restaurant = listOf(
+    val restaurantSuggestions = listOf(
         Restaurant(
             name = R.string.restaurant_1,
             image = R.drawable.restaurant_1,
@@ -105,7 +106,7 @@ object LocalSuggestionsProvider {
             description = R.string.description_restaurant_9
         ),
     )
-    private val activity = listOf(
+    val activitySuggestions = listOf(
         Activity(
             name = R.string.activity_1,
             image = R.drawable.activity_1,
