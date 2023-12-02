@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Ho Chi Minh City</string>
+    <string name="coffee_1">Anh Coffee Roastery</string>
+    <string name="description_coffee_1">Address: No. 200, Pasteur Street, Vo Thi Sau Ward, District 3
+Price range: 40,000 VND - 160,000 VND
+Opening hours: 8:00 AM - 10:00 PM
+Located in a charming alleyway in District 3, Anh Coffee Roastery is a must-visit Saigon cafe for those who appreciate impressive design. The cafe combines modern and traditional Vietnamese decor styles, making it a great spot for Instagrammable photos.
+
+Aside from captivating decoration, this Saigon cafe serves a wide range of coffee drinks, from traditional Vietnamese coffee to cold brews. The coffee beans used here are roasted in-house. </string>
+    <string name="coffee_2">Ollin Café</string>
+    <string name="description_coffee_2">Address: No. 300, Nguyen Thi Thap Street, Tan Quy Ward, District 7
+Price range: VND 50,000 - VND 80,000
+Opening hours: 7:00 AM - 10:30 PM
+Ollin Café is a cozy and stylish Saigon cafe that offers a great selection of drinks and snacks. The interior design of the cafe is modern and minimalistic, creating a peaceful and relaxing atmosphere.
+
+The menu features a range of coffees, teas, and fruit juices, as well as smoothies and frappes. This Ho Chi Minh City cafe also serves a variety of treats, including sandwiches and pastries that are freshly made. </string>
+    <string name="coffee_3">Normad Cafe &amp; Dessert</string>
+    <string name="description_coffee_3">Address: No. 28, Ho Bieu Chanh Street, Ward 11, Phu Nhuan District
+Price range: 50,000 VND - 80,000 VND
+Opening hours: 7:00 AM - 11:00 PM
+Normad Cafe and Dessert is a trendy Saigon cafe, known for its picture-worthy interior and impressive desserts. It is one of the best coffee shops in Saigon, a favorite among locals and tourists alike.
+
+The cafe has modern interior design with an industrial feel. A highlight is the flowers in the elevator, which are beautifully arranged to become the perfect photo background.
+
+Normad Cafe and Dessert's Vietnamese coffee menu has a wide range of drinks and desserts that are sure to satisfy any sweet tooth. Their signature drinks include Black Lemonade, Normad Coco, and Crème Brulée Milk Tea.
+</string>
+    <string name="coffee_4">Reu Coffee </string>
+    <string name="description_coffee_4">Address: No. 46, Trinh Van Can Street, Cau Ong Lanh Ward, District 1
+Price range: 50,000 VND - 65,000 VND
+Opening hours: 7:00 AM - 1:00 AM
+Nestled in the heart of Saigon, Reu Coffee is a cozy and welcoming Saigon coffee spot known for its lush greenery. The interior is thoughtfully decorated with potted plants and hanging vines, giving the space a natural and organic feel.
+
+The menu features a range of coffee drinks, including classic espressos and more creative concoctions. Visiting the cafe, make sure that you try their signature Cafe Reu and Reu Da Xay.</string>
+    <string name="coffee_5">The Seat Cafe in Saigon</string>
+    <string name="description_coffee_5">Address: No. 491/2, Le Van Sy Street, Ward 12, District 3
+Price range: 35,000 VND - 50,000 VND
+Opening hours: 8:00 AM - 10:00 PM
+The Seat Cafe is a cozy and spacious Saigon cafe, perfect for those looking for a peaceful and relaxing space.
+
+The interior of the cafe is decorated with warm wooden furnishings, creating a rustic and inviting ambiance. Green plants are scattered throughout the space, providing a touch of freshness and natural beauty.
+
+Coffee lovers will appreciate the variety of specialty coffee drinks available, while tea enthusiasts can choose from a range of premium teas. The Seat Cafe also serves sweet and savory snacks, including cakes, pastries, sandwiches, and salads.</string>
+    <string name="coffee_6">Dabao Concept</string>
+    <string name="description_coffee_6">Address: No. 18, Tu Xuong Street, Vo Thi Sau, District 3
+Price range: 50,000 VND - 80,000 VND
+Opening hours: 7:00 AM - 9:00 PM
+Dabao Concept is a stylish and contemporary cafe located in the heart of Ho Chi Minh City. It serves a range of delicious drinks, including coffees, teas, and fresh juices, as well as a selection of sweet and savory snacks. Popular options include their signature Dabao coffee, which is smooth and creamy.
+</string>
+    <string name="coffee_7">Zeraffe Coffee</string>
+    <string name="description_coffee_7">Address: No. 226/36, Le Van Sy Street, Ward 1, Tan Binh District
+Price range: 35,000 VND - 80,000 VND
+Opening hours: 8:00 AM - 10:00 PM
+Zeraffe Coffee is a Saigon coffee place with a simple yet stylish design, ideal as a hangout spot with friends after a working day. The cafe uses only the freshest and highest-quality beans for their coffee. They also offer a variety of delicious baked goods. Be sure to try one of their mouthwatering desserts, like the decadent tiramisu or the creamy red velvet.</string>
+    <string name="coffee_8">September Saigon Cafe &amp; Cake</string>
+    <string name="description_coffee_8">Address: No. 118/1D, Nguyen Trai Street, Ward 14, District 5
+Price range: 35,000 VND - 70,000 VND
+Opening hours: 8:00 AM - 10:00 PM
+September Saigon Cafe is a charming Saigon cafe located in the vibrant District 5. The decor is simple yet elegant, with wooden tables and chairs, lush green plants, and soft lights. It is the perfect Saigon coffee shop for a relaxing break from the bustle of life.
+
+The cafe offers a range of freshly baked homemade cakes, which come in a variety of flavors, including classics like chocolate and vanilla as well as more unique flavors like matcha and black sesame.</string>
+    <string name="coffee_9">Bonjour Cafe The Art </string>
+    <string name="description_coffee_9">Address: No. 42, Thao Dien Street, Thao Dien Ward, District 2
+Price range: 35,000 VND - 65,000 VND
+Opening hours: 8:00 AM - 10:30 PM
+Bonjour Cafe The Art is a cozy and romantic Saigon cafe that combines French art with the vibrant energy of Ho Chi Minh City. In addition to its stylish ambiance, the cafe has a delicious menu of French-inspired drinks. For those with a sweet tooth, the selection of cakes, macarons, and other pastries will not disappoint you here.</string>
+    <string name="coffee_10">Thinker&amp;Dreamer Coffee</string>
+    <string name="description_coffee_10">Address: No. 42, Nguyen Hue Street, Ben Nghe, District 1
+Price range: 35,000 VND - 75,000 VND
+Opening hours: 9:00 AM - 10:00 PM
+The relaxed and peaceful feel of Thinker&amp;Dreamer Coffee provides a quiet space for you to work, read, or simply unwind. This Saigon cafe serves some of the best specialty coffees in the city. They also offer a range of delicious snacks and light meals, including avocado toast, homemade granola, and decadent pastries.</string>
+
+    <string name="restaurant_1">Anan Saigon</string>
+    <string name="description_restaurant_1">Address: Ground floor, 89 Ton That Dam, District 1
+Opening hours: 5:00 pm - 12:00 am (Tuesday - Sunday)
+Average price: From 185,000 VND/dish
+Discover the essence of Ho Chi Minh City street food at Anan Saigon. This award-winning restaurant satisfies diners with progressive yet traditionally-rooted dishes, including the must-try banh mi Saigon and the delectable bone marrow pho. The delightful experience here extends to a cocktail bar and rooftop dining, ensuring a feast for all senses.</string>
+    <string name="restaurant_2">The Log Restaurant</string>
+    <string name="description_restaurant_2">Address: 8 Nguyen Binh Khiem, District 1
+Opening hours: 6:00 pm - 11:00 pm
+Average price: 1,650,000 VND/pax and above
+Perched above the GEM Center building, The Log Restaurant draws inspiration from a wooden treehouse, evident in its red-brown wood decor and lush green plants. The restaurant offers two distinct areas for a la carte and buffet dining, allowing guests to choose between the outdoor or indoor setting. Reservations in advance are recommended.</string>
+    <string name="restaurant_3">Truffle Restaurant </string>
+    <string name="description_restaurant_3">Address: 73rd floor, Landmark 81, Binh Thanh District
+Opening hours: 3:00 pm - 11:30 pm
+Average price: 7,700,000 - 10,800,000 VND/pax and above
+Truffle Restaurant, a pinnacle of fine dining in Saigon, towers more than 300 meters on Landmark 81 Vietnam. The grand dining area, enveloped by floor-to-ceiling windows, presents breathtaking views of Saigon as you savor exquisite truffle specialties. With menus that swap every two months, Truffle offers an inclusive culinary experience for all.</string>
+    <string name="restaurant_4">Sol Kitchen &amp; Bar</string>
+    <string name="description_restaurant_4">Address: 115 Ly Tu Trong, District 1
+Opening hours: 5:00 pm - 2:00 am
+Average price: From 100,000 VND/dish
+Experience fine dining in Saigon at Sol Kitchen &amp; Bar, a Latin-America culinary oasis in District 1. The enticing menu here features mouth-watering empanadas, scallop ceviche, and burrata salad. Indulge in Sol\'s renowned marinated steak with chimichurri sauce, BBQ ribs glazed with fish sauce, and mojo sauce-infused roasted chicken.</string>
+    <string name="restaurant_5">Nous Dine</string>
+    <string name="description_restaurant_5">Address: 42 Ly Tu Trong, District 1
+Opening hours: 7:00 pm - 10:30 pm (closed on Monday)
+Average price: 2,000,000 VND/pax
+Nous Dine is the premier capsule restaurant for fine dining in Vietnam. With an intimate kitchen-side dining area, Nous offers a speakeasy vibe. Only 10 lucky guests per night can enjoy their omakase-style tasting menu overlooking the open kitchen, where the theme changes every three months for an impressive culinary adventure.</string>
+    <string name="restaurant_6">Mùa Craft Sake</string>
+    <string name="description_restaurant_6">Address: 7 Le Ngo Cat, District 3
+Opening hours: 5:00 pm - 11:00 pm
+Average price: 25,000 - 600,000 VND/dish
+Mùa Craft Sake takes pride in being Ho Chi Minh City\'s pioneering taproom, merging Japanese tradition and Vietnamese flair. Mùa partners with Heiwa Shuzou - an award-winning Japanese sake brewery, infusing their sake with Vietnamese rice's fruity notes. Their menu artfully blends the influence of Japanese izakaya with the drinking culture of Vietnamese people.</string>
+    <string name="restaurant_7">Noir </string>
+    <string name="description_restaurant_7">Address: Lane 178-180D, Hai Ba Trung Street, District 1
+Opening hours: 5:30 pm - 11:00 pm (closed on Monday)
+Average price: 700,000 VND/pax and above
+As a renowned spot for a fine dinner in Vietnam, Noir offers an unorthodox experience of Saigon fine dining in the dark. This concept remains intriguing, challenging guests to dine in pitch black and rely on their other senses. Led by visually-impaired staff, diners will embark on a sensory journey at Noir, which focuses on the culinary divergence of Western and Eastern influences. </string>
+    <string name="restaurant_8">Le Corto</string>
+    <string name="description_restaurant_8">Address: 5D Nguyen Sieu, District 1
+Opening hours: 11:00 am - 10:30 pm (open from 5:00 pm on Saturday)
+Average price: 150,000 - 2,000,000 VND/dish
+Le Corto beautifully blends sophisticated design with adventurous spirit in their dishes to bring you the best food in Ho Chi Minh City. The menu features dishes like pan-fried foie gras with port jus and mango, tofu parfait adorned with salmon roe, and Dalat-grown micro-herbs. Complete your playful culinary journey with a berry pavlova paired with coriander sorbet.</string>
+    <string name="restaurant_9">The Refinery</string>
+    <string name="description_restaurant_9">Address: 74 Hai Ba Trung, District 1
+Opening hours: 11:00 am - 11:00 pm
+Average price: 250,000 - 800,000 VND/pax and above
+This French brasserie and wine bar resides in a tranquil courtyard, showcasing a spacious outdoor terrace with French architectural elements. Some must-tries here include assorted cheese platters and an impressive wine collection. Regular events centered around wine and food pairing are also a highlight of The Refinery.</string>
+
+    <string name="activity_1">Take a Peek at Vietnamese Culture in a Traditional Water Puppet Show</string>
+    <string name="description_activity_1">At a young age, children must be exposed to the beauty of cultural diversity. If you are a tourist or an expatriate in Ho Chi Minh City, you should not disregard the distinct culture of the country. One of Vietnam’s most cherished artistic forms is a water puppet show, which showcases the folklore, traditions, and the general culture of the Vietnamese. Aside from teaching your kids the cultural history of the country they are currently in, watching a water puppet show in Ho Chi Minh City is a great way to keep your kids entertained. Water puppet theaters feature a one-hour show of puppets that act on the water stage filled with spectacular props and set designs, accompanied by live music played on authentic traditional instruments. Kids will definitely be amused as the puppets seem to come to life and tell them a lovely story. You can watch a water puppet show in several theaters in Ho Chi Minh City, such as The Golden Dragon Water Puppetry Theater in District 1 and the Ngon Restaurant at the Villa Song Saigon (formerly Thao Dien Village) in District 2. You can enter the theater for $12 per person. We guarantee that both you and the kids with love watching and learning from the water puppet show. So, what are you waiting for? Search for the earliest available show time today.</string>
+    <string name="activity_2">Ride on a Traditional Cyclo</string>
+    <string name="description_activity_2">Another cultural trip you can take in Ho Chi Minh City with the kids is a tour of the Cholon, which is considered the city’s large Chinatown district, not on a typical cab but on a traditional cyclo. A cyclo is a three-wheeled bicycle taxi traditionally used by the Vietnamese for transportation. However, some roads in Ho Chi Minh City have already blocked these vehicles, so it is recommended that you let your kids experience touring the city on a cultural symbol as such. Each cyclo can accommodate two people, and costs $12 per vehicle. The drivers are very friendly and speak English, so you can easily understand the information they give about the tour stops. A cyclo tour lasts for 4 hours to include various landmarks in the city, such as the Notre Dame Cathedral, Saigon Post Office, Ben Thanh Market, Flower Market, Pet Market, Thien Hau Pagoda, and of course, Chinatown. We assure you that this is a safe way for your kids to have fun while learning all about the history of the city and Vietnam, in general.</string>
+    <string name="activity_3">Get Limitless Fun at Suoi Tien Theme Park</string>
+    <string name="description_activity_3">If you think Ho Chi Minh City has nothing besides cultural and historical landmarks, you are wrong. This city, serving as Vietnam’s busiest metropolis, has entertainment centers especially for kids. In District 9 (approximately 15 km away from the city center), there lies the most popular theme park in Ho Chi Minh City – the Suoi Tien Amusement Park. This park boasts of indoor, outdoor, and a water adventure for the kids. You can take them here during the weekend or on school breaks to treat them to a magical and wonderfilled experience on the park’s attractions. Kids can explore thrilling rides, such as the spaceship, giant windmill, roller coaster, and the UFO spinner, among others. Or they can enter and be amused by the magic castle, jungle secrecy, and the 8D movie theater. Kids can also play lasers in the lazer zone. They can ride cable cars, too. If they are a die-hard fanatic of Harry Potter, kids can find the Harry Potter Castle a truly unforgettable experience. Additionally, if kids want to refresh and take a dip, they can enjoy waterslides at the man-made Tien Dong Beach or just relax on the lazy river, where they can ride on beautiful animal-shaped boats. Kids can feed crocodiles on the huge farm inside the park as well. They can also marvel at the beauty of marine life in the aquarium. Meanwhile, older kids can experience thrill and fright at the Unicorn Palace, which is an underground attraction featuring a walk-through tunnel that houses Buddhist beliefs on death. Or the whole family can witness the amusing tricks played by the staff dressed in colorful costumes. Whatever your age, kids and kids at heart can find something for entertainment at this huge amusement park. The Suoi Tien Theme Park is open daily, from 7:00 a.m. to 5:00 p.m. on weekdays and 7:00 a.m. to 6:00 p.m. on weekends. Admission to the park starts at $2.5 for each child and $5 for each adult. Such an affordable price for all the fun that awaits you and the whole family, isn’t it?</string>
+    <string name="activity_4">Learn about the Vietnam War at Cu Chi Tunnels</string>
+    <string name="description_activity_4">It is a common misconception among parents that children are only excited when it’s about playing and draining all their energy. This is probably because they haven’t yet tried taking the young ones for other types of adventure. This is why we recommend that you take them to a Cu Chi Tunnels Tour in Ho Chi Minh City. The tunnels are in Phu Hiep, Phu My Hung, which is located about 70 kilometers away from the city center. The Cu Chi Tunnels, comprised of 250 kilometers of underground tunnels and chambers, is listed as one of Vietnam’s most historic landmarks about the war. The tunnels had been used by the Viet Cong during the war, and served as their hiding spots during combat. The tunnels also provided the Viet Cong with communication routes, supply routes, and living quarters. Besides seeing the best war construction in Vietnam, your kids will enjoy crawling through the long underground tunnel. They can have a look at how the Vietnamese lived their lives during the onslaught of the Vietnam War. They will be treated with a display of war handmade weapons, although they are not yet allowed to try shooting with the equipment. The Cu Chi Tunnels are open daily, from 7:30 a.m. to 5:00 p.m.</string>
+    <string name="activity_5">Squeeze Their Creativity at the Artinus 3D Art Museum</string>
+    <string name="description_activity_5">Art comes in various forms. It provides us with the ultimate human experience. It makes us feel varying emotions with a specific stroke of the brush or a certain mix of colors. And well, kids love art. They love to draw and paint and mold. So why not take them to the Artinus 3D Art Museum in District 7 in Ho Chi Minh City? This art museum is home to more than 100 3D paintings, which were all created by Korean artists. In this museum, kids can have a wonderful and creative experience posing beside and in the 3D drawings. They can pose as if they’re trapped inside a giant bottle or as if they’re fighting a huge dragon or as if they’re in the middle of the sharp teeth of the crocodile or different other poses depending on how creative they are. The Artinus 3D Art Museum believes in the magic from paintings. Through optical illusion, the kids will have an amazing time taking pictures. The Artinus 3D Art Museum is open daily, from 9:00 a.m. to 6:00 p.m. Admission starts at $11.5 during weekdays and $13.5 during weekends.</string>
+    <string name="activity_6">Understand Ho Chi Minh Better on a Mekong Delta Tour</string>
+    <string name="description_activity_6">Another fun activity you can do in Ho Chi Minh City with the kids is the Mekong Delta Day Tour. It is popular among tourists who are visiting Vietnam for the first time as it provides a general idea of what to expect in the country. The Mekong Delta Tour consumes an entire day, so it is something which the kids could look forward to. In this tour, you and the kids will ride on a large traditional boat to take you across the Mekong to the islands. You will get to see how the Vietnamese make honey and coconut candy. You can also hold and take a photo with a 2-meter python in one of the stops. You will also be canoeing down the canals, ride horses to the village for some Vietnamese lunch, and buy some souvenirs for your friends at home. The Mekong Delta Tour seems exhausting, although it really is a refreshing one which the kids will surely enjoy.</string>
+    <string name="activity_7">Attend a Handicrafts Workshop at Vin Space Art Studio</string>
+    <string name="description_activity_7">While in Ho Chi Minh City, you should be able to take your kids for some creative workshop to keep their little hands busy. This proves to be an amusing experience for the kids as they have the chance to create something artistic and beautiful. If you are in for this type of adventure, take your little ones to the Vin Space Art Studio along Le Van Mien Street in Thao Dien. This studio has various workshops for children and adults alike.You and the kids can do oil painting, acrylic painting, abstract painting, woodblock-printing, photography, and handicrafts-making. All kinds of workshop are facilitated by a professional artist who will amaze you with his/her masterpieces. The Vin Space Art Studio is open from Mondays to Saturdays, 9:00 a.m. to 6:00 p.m. An hour of workshop costs $14.5, while a two-hour workshop costs $21.5.</string>
+    <string name="activity_8">Show Love for Animals at the Cu Chi Wildlife Rescue Station</string>
+    <string name="description_activity_8">Did you include the Cu Chi Tunnels Tour in your list of activities for the kiddos? If you did, head to the Cu Chi Wildlife Rescue Station which is located just within the area. The Cu Chi Wildlife Rescue Station will introduce your kids to the importance of caring about animals, as this place is where they take care of bears, wild cats, turtles, birds, and gibbons. Your kids will learn how to properly care for the animals, how to respect their natural habitat, and how to continue being stewards of nature. Be reminded that you will be paying an entrance fee of $8.5 per person, which is used to support the caring and feeding of all animals housed in the station. Such a lovely experience to teach your kids about compassion, right?</string>
+    <string name="activity_9">Splash and Slide at the Dam Sen Water Park Saigon</string>
+    <string name="description_activity_9">So you are in Ho Chi Minh City on a hot season. Are the kids craving for a dip to feel cooler? Well, they are in for a great surprise, as the Dam Sen Water Park Saigon will not just let them take a refreshing swim on its clean and fresh waters, but it will also allow the kids to have fun with its cool water rides. The Dam Sen Water Park Saigon is located in District 11 and is just 30 minutes away from the city center of Ho Chi Minh. In this aqua park, the kids can enjoy all sorts of water slides, a wave pool, and other thrilling rides. They can also go for the Kamikaze, which is a fast-paced water slide about 19 meters in height, or the Flying Fox water ride, which includes hanging from a 10-meter cable over a swimming pool. Younger ones who are not yet too adventurous can stay in a colorful play and swimming area. Moreover, the Dam Sen Water Park Saigon offers a safe environment for the kids. There are well-trained lifeguards on duty at each attraction to look out for every guest’s safety. The aqua park is open daily, except on Tuesdays.
+
+After spending the day at the Dam Sen Water Park Saigon, you can head to the adjacent Dam Sen Cultural Park. This park is home to more than 30 different attractions, such as a mini zoo, roller coasters, a botanical garden, a butterfly farm, miniature lakes, a monorail train, and a huge Roman square with a musical water and light theater. After a dip in the pool, your kids can have a relaxing adventure at the Dam Sen Cultural Park.</string>
+    <string name="activity_10">Visit One of the Oldest Zoos in the World</string>
+    <string name="description_activity_10">Next on our list of suggested things to do in Ho Chi Minh City with the kids is a visit to none other than the Saigon Zoo and Botanical Gardens. Founded more than 100 years ago by a French botanist, the Saigon Zoo is considered one of the world’s oldest zoos. Despite its old age, the Saigon Zoo and Botanical Gardens currently houses more than 550 animals, 1,800 trees, and 260 plant species. Kids can have the most fun watching and learning about the animals and admiring the flowers and plants. Moreover, kids can explore the Saigon National Museum and the World War I Monument located just within the vicinity.</string>
+
+</resources>
