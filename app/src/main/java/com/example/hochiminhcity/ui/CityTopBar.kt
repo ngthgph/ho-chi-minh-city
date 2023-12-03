@@ -11,6 +11,7 @@ import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -28,34 +29,40 @@ fun CityTopBar(
     @StringRes topBarTitle: Int,
     modifier: Modifier = Modifier,
 ) {
-    Row(modifier = modifier) {
-        if(!isShowingHomepage) {
-            IconButton(
-                onClick = onBack,
-                modifier = Modifier.wrapContentSize()
+    Surface(
+        shadowElevation = dimensionResource(id = R.dimen.elevation),
+        modifier = modifier
+    ) {
+        Row {
+            if (!isShowingHomepage) {
+                IconButton(
+                    onClick = onBack,
+                    modifier = Modifier.wrapContentSize()
 
-            ) {
-                Icon(
-                    imageVector = Icons.Default.ArrowBack,
-                    contentDescription = stringResource(id = R.string.navigation_back))
+                ) {
+                    Icon(
+                        imageVector = Icons.Default.ArrowBack,
+                        contentDescription = stringResource(id = R.string.navigation_back)
+                    )
+                }
+            } else {
+                Spacer(
+                    modifier = Modifier
+                        .width(dimensionResource(id = R.dimen.padding_medium))
+                        .padding(dimensionResource(id = R.dimen.padding_large))
+                )
             }
-        } else {
-            Spacer(
+            Row(
                 modifier = Modifier
-                    .width(dimensionResource(id = R.dimen.padding_medium))
-                    .padding(dimensionResource(id = R.dimen.padding_large))
-            )
-        }
-        Row (
-            modifier = Modifier
-                .weight(1f)
-                .align(Alignment.CenterVertically)
-                ){
-           Text(
-               text = stringResource(topBarTitle),
-               style = MaterialTheme.typography.titleLarge,
-               color = MaterialTheme.colorScheme.primary
-           )
+                    .weight(1f)
+                    .align(Alignment.CenterVertically)
+            ) {
+                Text(
+                    text = stringResource(topBarTitle),
+                    style = MaterialTheme.typography.titleLarge,
+                    color = MaterialTheme.colorScheme.primary
+                )
+            }
         }
     }
 }

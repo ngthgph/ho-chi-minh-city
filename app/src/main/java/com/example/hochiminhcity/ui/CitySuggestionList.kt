@@ -9,11 +9,14 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
@@ -35,23 +38,37 @@ fun CitySuggestionList(
     ) {
         items(suggestions) {
             Card(
+                elevation = CardDefaults.cardElevation(dimensionResource(id = R.dimen.elevation)),
+                shape = MaterialTheme.shapes.small,
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(dimensionResource(id = R.dimen.padding_small))
                     .clickable(
-                        onClick = {onSuggestionClicked(it)}
+                        onClick = { onSuggestionClicked(it) }
                     )
             ) {
                 Row (
                     verticalAlignment = Alignment.CenterVertically
                         ){
-                    Image(
-                        painter = painterResource(id = it.image),
-                        contentDescription = stringResource(id = it.name),
+                    Surface(
+                        shadowElevation = dimensionResource(id = R.dimen.elevation),
+                        shape = MaterialTheme.shapes.small,
+                        color = MaterialTheme.colorScheme.onPrimary,
                         modifier = Modifier
-                            .size(dimensionResource(id = R.dimen.image_size_small)),
-                        contentScale = ContentScale.Crop
-                    )
+                            .clip(MaterialTheme.shapes.small)
+                            .padding(dimensionResource(id = R.dimen.padding_extra_small))
+                    ) {
+                        Image(
+                            painter = painterResource(id = it.image),
+                            contentDescription = stringResource(id = it.name),
+
+                            modifier = Modifier
+                                .size(dimensionResource(id = R.dimen.image_size_small))
+                                .padding(dimensionResource(id = R.dimen.padding_extra_small))
+                                .clip(MaterialTheme.shapes.small),
+                            contentScale = ContentScale.Crop,
+                        )
+                    }
                     Text(
                         text = stringResource(id = it.name),
                         style = MaterialTheme.typography.titleMedium,

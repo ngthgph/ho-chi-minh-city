@@ -1,8 +1,6 @@
 package com.example.hochiminhcity.ui
 
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
@@ -44,35 +42,23 @@ fun CitySuggestionDetails(
     ) {
         Column (
             modifier = Modifier
-                .padding(dimensionResource(id = R.dimen.padding_medium))
+                .padding(dimensionResource(id = R.dimen.padding_large))
                 ){
-            Box(
+            Image(
+                painter = painterResource(id = suggestion.image),
+                contentDescription = stringResource(id = suggestion.name),
                 modifier = Modifier
-                    .background(
-                        MaterialTheme.colorScheme.onPrimary,
-                        MaterialTheme.shapes.small
-                    )
-                    .align(Alignment.CenterHorizontally)
-
-            ) {
-                Image(
-                    painter = painterResource(id = suggestion.image),
-                    contentDescription = stringResource(id = suggestion.name),
-
-                    modifier = Modifier
-                        .padding(dimensionResource(id = R.dimen.padding_small))
-                        .clip(MaterialTheme.shapes.small)
-                        .heightIn(max = dimensionResource(id = R.dimen.image_large_height)),
-                    contentScale = ContentScale.Inside,
-                )
-            }
-            Spacer(modifier = Modifier.height(dimensionResource(id = R.dimen.padding_medium)))
+                    .clip(MaterialTheme.shapes.small)
+                    .heightIn(max = dimensionResource(id = R.dimen.image_large_height))
+                    .align(Alignment.CenterHorizontally),
+                contentScale = ContentScale.Crop,
+            )
+            Spacer(modifier = Modifier.height(dimensionResource(id = R.dimen.padding_large)))
             Text(
                 text = stringResource(id = suggestion.description),
                 style = MaterialTheme.typography.bodyLarge,
                 textAlign = TextAlign.Justify,
                 modifier = Modifier
-                    .padding(dimensionResource(id = R.dimen.padding_medium))
                     .verticalScroll(rememberScrollState())
             )
         }
