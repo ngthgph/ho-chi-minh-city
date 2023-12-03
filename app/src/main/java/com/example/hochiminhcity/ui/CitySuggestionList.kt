@@ -1,5 +1,6 @@
 package com.example.hochiminhcity.ui
 
+import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Row
@@ -29,10 +30,14 @@ import com.example.hochiminhcity.ui.theme.HoChiMinhCityTheme
 
 @Composable
 fun CitySuggestionList(
+    onBack: () -> Unit,
     onSuggestionClicked: (Suggestion) -> Unit,
     suggestions: List<Suggestion>,
     modifier: Modifier = Modifier,
 ) {
+    BackHandler() {
+        onBack()
+    }
     LazyColumn(
         modifier = modifier
     ) {
@@ -87,6 +92,7 @@ fun CitySuggestionList(
 fun SuggestionListPreview() {
     HoChiMinhCityTheme {
         CitySuggestionList(
+            onBack = {},
             onSuggestionClicked = {},
             suggestions = LocalSuggestionsProvider.coffeeSuggestions
         )
