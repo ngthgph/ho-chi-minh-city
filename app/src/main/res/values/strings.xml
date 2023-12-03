@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Ho Chi Minh City</string>
+    <string name="navigation_back">Back</string>
+
     <string name="coffee">Coffee Shops</string>
     <string name="restaurant">Restaurants</string>
     <string name="activity">Things to do</string>
@@ -25,8 +27,7 @@ Normad Cafe and Dessert is a trendy Saigon cafe, known for its picture-worthy in
 
 The cafe has modern interior design with an industrial feel. A highlight is the flowers in the elevator, which are beautifully arranged to become the perfect photo background.
 
-Normad Cafe and Dessert's Vietnamese coffee menu has a wide range of drinks and desserts that are sure to satisfy any sweet tooth. Their signature drinks include Black Lemonade, Normad Coco, and Crème Brulée Milk Tea.
-</string>
+Vietnamese coffee menu of Normad Cafe and Dessert has a wide range of drinks and desserts that are sure to satisfy any sweet tooth. Their signature drinks include Black Lemonade, Normad Coco, and Creme Brulée Milk Tea.</string>
     <string name="coffee_4">Reu Coffee </string>
     <string name="description_coffee_4">Address: No. 46, Trinh Van Can Street, Cau Ong Lanh Ward, District 1
 Price range: 50,000 VND - 65,000 VND
@@ -97,11 +98,12 @@ Experience fine dining in Saigon at Sol Kitchen &amp; Bar, a Latin-America culin
 Opening hours: 7:00 pm - 10:30 pm (closed on Monday)
 Average price: 2,000,000 VND/pax
 Nous Dine is the premier capsule restaurant for fine dining in Vietnam. With an intimate kitchen-side dining area, Nous offers a speakeasy vibe. Only 10 lucky guests per night can enjoy their omakase-style tasting menu overlooking the open kitchen, where the theme changes every three months for an impressive culinary adventure.</string>
-    <string name="restaurant_6">Mùa Craft Sake</string>
+    <string name="restaurant_6">Mua Craft Sake</string>
     <string name="description_restaurant_6">Address: 7 Le Ngo Cat, District 3
 Opening hours: 5:00 pm - 11:00 pm
 Average price: 25,000 - 600,000 VND/dish
-Mùa Craft Sake takes pride in being Ho Chi Minh City\'s pioneering taproom, merging Japanese tradition and Vietnamese flair. Mùa partners with Heiwa Shuzou - an award-winning Japanese sake brewery, infusing their sake with Vietnamese rice's fruity notes. Their menu artfully blends the influence of Japanese izakaya with the drinking culture of Vietnamese people.</string>
+
+Mua Craft Sake takes pride in being Ho Chi Minh City pioneering taproom, merging Japanese tradition and Vietnamese flair. Mua partners with Heiwa Shuzou - an award-winning Japanese sake brewery, infusing their sake with Vietnamese rice fruity notes. Their menu artfully blends the influence of Japanese izakaya with the drinking culture of Vietnamese people.</string>
     <string name="restaurant_7">Noir </string>
     <string name="description_restaurant_7">Address: Lane 178-180D, Hai Ba Trung Street, District 1
 Opening hours: 5:30 pm - 11:00 pm (closed on Monday)
